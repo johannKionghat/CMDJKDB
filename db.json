@@ -21,30 +21,4 @@
       "id": "hQg6jXF"
     }
   ],
-  "groups": [
-    {
-      "id": "1",
-      "name": "colleague"
-    },
-    {
-      "id": "2",
-      "name": "friend"
-    },
-    {
-      "id": "3",
-      "name": "family"
-    },
-    {
-      "id": "4",
-      "name": "service"
-    },
-    {
-      "id": "5",
-      "name": "community"
-    },
-    {
-      "id": "6",
-      "name": "social"
-    }
-  ]
 }
